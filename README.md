@@ -9,6 +9,6 @@ I'm a Data Science student from Ngee Ann Polytechnic
 <p align="left">
 </p>
 
-- Personal Website: https://changze2.github.io/
+- Personal Website: [changze2.github.io/](https://changze2.github.io/)
 
 - Linkedin : [linkedin.com/in/lim-chang-ze/](https://www.linkedin.com/in/lim-chang-ze/)
