@@ -2,8 +2,8 @@
 
 I'm a Data Science student from Ngee Ann Polytechnic
 
-- 🔭 I’m currently working on Recurrent Neural Network Models
-- 🌱 I’m currently learning Computer Vision and AI
+- 🔭 I’m currently working on Computer Vision and Deep Learning
+- 🌱 I’m currently learning Computer Vision
 - 😄 Pronouns: He/Him
 <h3 align="left">Find me here!:</h3>
 <p align="left">
